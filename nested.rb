@@ -16,7 +16,8 @@ def hopper
         }
      }
   programmer_hash[:grace_hopper]
-  programmer_hash[:dennis_ritchie][:languages]
+end
+programmer_hash[:dennis_ritchie][:languages]
 
 end
 
