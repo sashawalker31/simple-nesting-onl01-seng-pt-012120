@@ -51,12 +51,12 @@ def dennis_ritchies_language
           :known_for => "Object Orientation",
           :languages => ["Smalltalk", "LISP"]
         },
-        :dennis_ritchie => {
+        :dennis_ritchies_language => {
           :known_for => "Unix",
           :languages => ["C"]
         }
      }
-     programmer_hash[:dennis_ritchies_language]
+     programmer_hash[:dennis_ritchies_language][:languages]
 end
 
 def adding_matz
